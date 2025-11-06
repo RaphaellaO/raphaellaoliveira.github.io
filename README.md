@@ -1,1 +1,87 @@
-# raphaellaoliveira.github.io
+# raphaellaoliveira.github.io<!doctype html>
+<!-- your uploaded avatar will show here if you replace the src with your GitHub avatar URL -->
+<img src="https://avatars.githubusercontent.com/u/0?v=4" alt="avatar" id="hero-avatar">
+</div>
+<div style="text-align:center;color:var(--muted)">
+<div style="font-weight:600">QA Pleno</div>
+<div style="font-size:13px">Testes • Automação • ADS</div>
+</div>
+</aside>
+</header>
+
+
+<main class="grid">
+<section class="card about">
+<h2 style="margin-top:0">Sobre mim</h2>
+<p>Sou QA Pleno com foco em testes manuais e em processo de aprendizado em automação. Gosto de investigar bugs, melhorar fluxos e garantir que a experiência do usuário seja fluida. Nos momentos livres, exploro jogos como The Last of Us, Death Stranding e The Sims — e levo isso pra minha forma de pensar: curiosidade e atenção aos detalhes.</p>
+
+
+<h3 style="margin-top:16px">Projetos</h3>
+
+
+<div class="projects">
+<!-- Replace these example projects with your real repos. -->
+<article class="project">
+<h3>Projeto: Automação Exemplo (Python)</h3>
+<p>Automação de login e validação de fluxo usando Selenium + Python. Inclui screenshots e relatórios.</p>
+<a href="#" target="_blank">Ver repositório</a>
+</article>
+
+
+<article class="project">
+<h3>Projeto: Testes E2E (JS)</h3>
+<p>Suite de testes E2E em JavaScript com geração de relatórios (ex.: mochawesome) e pipeline CI.</p>
+<a href="#" target="_blank">Ver repositório</a>
+</article>
+
+
+<article class="project">
+<h3>Projeto: Checklist de QA</h3>
+<p>Modelo de checklist e cenários de teste para aplicações web — bom pra entrevistas e avaliações rápidas.</p>
+<a href="#" target="_blank">Ver repositório</a>
+</article>
+</div>
+
+
+</section>
+
+
+<aside class="card contact">
+<h3 style="margin-top:0">Contato</h3>
+<p style="color:var(--muted)">Quer trocar uma ideia, ver o código ou me recrutar? Me encontre aqui:</p>
+<p><a href="https://www.linkedin.com/in/raphaellaoliveira" target="_blank" rel="noopener">🔗 LinkedIn</a></p>
+<p><a href="mailto:seu-email@exemplo.com">✉️ seu-email@exemplo.com</a></p>
+
+
+<div style="margin-top:8px">
+<small style="color:var(--muted)">Dicas:</small>
+<ul style="color:var(--muted);padding-left:18px;margin-top:6px">
+<li>Troque os links "Ver repositório" pelos URLs reais dos seus projetos.</li>
+<li>Substitua a imagem do avatar pelo link direto da sua foto no GitHub.</li>
+<li>Posso te ajudar a gerar cards automáticos puxando do GitHub se quiser.</li>
+</ul>
+</div>
+</aside>
+</main>
+
+
+<footer>
+Feito com ❤️ por Raphaella — QA Pleno • Aprendendo automação
+</footer>
+
+
+</div>
+
+
+<script>
+// Small script to auto-insert your GitHub avatar in the hero if available
+(function(){
+try{
+const username = 'RaphaellaO';
+const img = document.getElementById('hero-avatar');
+img.src = 'https://github.com/' + username + '.png';
+}catch(e){console.warn(e)}
+})();
+</script>
+</body>
+</html>
