@@ -1,19 +1,26 @@
-# raphaellaoliveira.github.io<!doctype html>
-<!-- your uploaded avatar will show here if you replace the src with your GitHub avatar URL -->
-<img src="https://avatars.githubusercontent.com/u/0?v=4" alt="avatar" id="hero-avatar">
-</div>
-<div style="text-align:center;color:var(--muted)">
-<div style="font-weight:600">QA Pleno</div>
-<div style="font-size:13px">Testes • Automação • ADS</div>
-</div>
-</aside>
+<header style="text-align: center; padding: 30px 0;">
+  <!-- ✅ Substitua pelo seu avatar real -->
+  <img 
+    src="https://avatars.githubusercontent.com/u/164405146?v=4" 
+    alt="Avatar de Raphaella Oliveira"
+    style="width: 160px; height: 160px; border-radius: 50%; border: 2px solid #30363d; margin-bottom: 10px;"
+  >
+  
+  <div style="font-weight: 600; font-size: 18px; color: var(--fg-default, #c9d1d9);">
+    QA Pleno
+  </div>
+  
+  <div style="font-size: 14px; color: var(--fg-muted, #8b949e); margin-top: 4px;">
+    Testes • Estudante de Automação • Gamer as Vezes •  
+  </div>
 </header>
-
 
 <main class="grid">
 <section class="card about">
 <h2 style="margin-top:0">Sobre mim</h2>
-<p>Sou QA Pleno com foco em testes manuais e em processo de aprendizado em automação. Gosto de investigar bugs, melhorar fluxos e garantir que a experiência do usuário seja fluida. Nos momentos livres, exploro jogos como The Last of Us, Death Stranding e The Sims — e levo isso pra minha forma de pensar: curiosidade e atenção aos detalhes.</p>
+<p>Sou QA Pleno com foco em testes manuais e em constante evolução no mundo da automação.
+Tenho curiosidade genuína por entender como as coisas funcionam — adoro investigar bugs, aprimorar fluxos e garantir que cada experiência do usuário seja fluida e intuitiva.
+Nos momentos livres, me aventuro em jogos como The Last of Us, Death Stranding e The Sims, que inspiram meu olhar detalhista e minha forma de pensar: curiosidade, imersão e atenção aos detalhes.</p>
 
 
 <h3 style="margin-top:16px">Projetos</h3>
@@ -49,8 +56,8 @@
 <aside class="card contact">
 <h3 style="margin-top:0">Contato</h3>
 <p style="color:var(--muted)">Quer trocar uma ideia, ver o código ou me recrutar? Me encontre aqui:</p>
-<p><a href="https://www.linkedin.com/in/raphaellaoliveira" target="_blank" rel="noopener">🔗 LinkedIn</a></p>
-<p><a href="mailto:seu-email@exemplo.com">✉️ seu-email@exemplo.com</a></p>
+<p><a href="https://www.linkedin.com/in/raphaella-oliveira-b150a5221/" target="_blank" rel="noopener">🔗 LinkedIn</a></p>
+<p>✉️ raphaellaco123@gmail.com</a></p>
 
 
 <div style="margin-top:8px">
